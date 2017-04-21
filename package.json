@@ -1,0 +1,36 @@
+{
+  "name": "delicias-node",
+  "version": "1.0.0",
+  "description": "MVP using Moltin as our cart API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hu4F00d/delicias-node.git"
+  },
+  "author": "Mauro Velazquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hu4F00d/delicias-node/issues"
+  },
+  "homepage": "https://github.com/Hu4F00d/delicias-node#readme",
+  "dependencies": {
+    "babel-cli": "^6.11.4",
+    "babel-core": "^6.13.2",
+    "babel-preset-es2015": "^6.13.2",
+    "babel-preset-react": "^6.11.1",
+    "ejs": "^2.5.6",
+    "express": "^4.14.1",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "react-router": "^2.6.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^6.2.10",
+    "http-server": "^0.9.0",
+    "webpack": "^1.13.3"
+  }
+}
